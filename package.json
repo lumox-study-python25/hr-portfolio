@@ -1,0 +1,14 @@
+{
+  "name": "hr-portfolio-tran-binh-nguyen",
+  "version": "1.0.0",
+  "description": "HR Intern Candidate Portfolio for Tran Binh Nguyen",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
